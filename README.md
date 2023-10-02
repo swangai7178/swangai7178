@@ -41,8 +41,6 @@ WakaTme <a href="https://wakatime.com/@1f31a92c-750e-4dcf-9828-0b20a598cc20"><im
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/swangai7178/swangai7178/output/snake.svg" alt="Snake animation" />
 
 ###
