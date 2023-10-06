@@ -39,7 +39,7 @@ WakaTme <a href="https://wakatime.com/@1f31a92c-750e-4dcf-9828-0b20a598cc20"><im
   </a>
 </div>
 
-<iframe src="https://app.vectary.com/p/3bjh0SC2dxGwmcJCoSCypI" frameborder="0" width="100%" height="480"></iframe>
+
 
 ###
 
