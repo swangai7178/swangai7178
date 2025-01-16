@@ -1,3 +1,4 @@
+[![MasterHead]( http://tmokk5.co.za/images/mobi-app.gif)]
 <div align="center">
   <h1>Hi there! 👋 I'm <span style="color:#5f27cd;">Samuel Wangai</span></h1>
   <p>Flutter & Backend Developer | Passionate about crafting efficient, scalable, and visually stunning applications</p>
