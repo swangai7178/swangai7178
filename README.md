@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <h1>Hi there! 👋 I'm <span style="color:#5f27cd;">Samuel Wangai</span></h1>
-    <p>Flutter & Backend Developer | Passionate about crafting efficient, scalable, and visually stunning applications</p>
+    <p>Flutter & Backend Developer with Springboot(Java) ,ruby on rails and rust| Passionate about crafting efficient, scalable, and visually stunning applications</p>
     <a href="https://wakatime.com/@1f31a92c-750e-4dcf-9828-0b20a598cc20">
       <img src="https://wakatime.com/badge/user/1f31a92c-750e-4dcf-9828-0b20a598cc20.svg" alt="Total time coded since Apr 3 2023" />
     </a>
