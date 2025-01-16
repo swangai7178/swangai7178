@@ -1,17 +1,18 @@
-[![MasterHead]( http://tmokk5.co.za/images/mobi-app.gif)]
-<div align="center">
-  <h1>Hi there! 👋 I'm <span style="color:#5f27cd;">Samuel Wangai</span></h1>
-  <p>Flutter & Backend Developer | Passionate about crafting efficient, scalable, and visually stunning applications</p>
-  <a href="https://wakatime.com/@1f31a92c-750e-4dcf-9828-0b20a598cc20">
-    <img src="https://wakatime.com/badge/user/1f31a92c-750e-4dcf-9828-0b20a598cc20.svg" alt="Total time coded since Apr 3 2023" />
-  </a>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1>Hi there! 👋 I'm <span style="color:#5f27cd;">Samuel Wangai</span></h1>
+    <p>Flutter & Backend Developer | Passionate about crafting efficient, scalable, and visually stunning applications</p>
+    <a href="https://wakatime.com/@1f31a92c-750e-4dcf-9828-0b20a598cc20">
+      <img src="https://wakatime.com/badge/user/1f31a92c-750e-4dcf-9828-0b20a598cc20.svg" alt="Total time coded since Apr 3 2023" />
+    </a>
+  </div>
+  <img src="http://tmokk5.co.za/images/mobi-app.gif" alt="MasterHead" style="width: 150px; height: auto; margin-left: 20px;" />
 </div>
+
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swangai7178&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<img align="right" alt="Samuel Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif" />
 
 ---
 
