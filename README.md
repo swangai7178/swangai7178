@@ -7,20 +7,17 @@
     </a>
   </div>
   <img src="http://tmokk5.co.za/images/mobi-app.gif" alt="MasterHead" style="width: 150px; height: auto; margin-left: 20px;" />
+  <div align="center">
+  <img src="https://terminalroot.com/assets/img/dart/flutter-dart.jpg" height="150" alt="Flutter and Dart" />
+</div>
 </div>
 
 
----
+
 
 <img align="right" alt="Samuel Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif" />
 
----
 
-<div align="center">
-  <img src="https://terminalroot.com/assets/img/dart/flutter-dart.jpg" height="150" alt="Flutter and Dart" />
-</div>
-
----
 
 <div align="center">
   <h2>⚙️ Skills</h2>
