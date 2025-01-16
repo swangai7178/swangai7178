@@ -7,9 +7,9 @@
     </a>
   </div>
   <img src="http://tmokk5.co.za/images/mobi-app.gif" alt="MasterHead" style="width: 150px; height: auto; margin-left: 20px;" />
-  <div align="center">
+
   <img src="https://terminalroot.com/assets/img/dart/flutter-dart.jpg" height="150" alt="Flutter and Dart" />
-</div>
+
 </div>
 
 
