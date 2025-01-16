@@ -64,14 +64,7 @@
   </a>
 </div>
 
----
 
-<div align="center">
-  <h2>🌟 Fun Fact</h2>
-  <p>I'm a drummer in my free time! 🎶</p>
-</div>
-
----
 
 <div align="center">
   <h2>🌐 Portfolio</h2>
