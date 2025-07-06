@@ -18,32 +18,110 @@
 
 ---
 
-## ⚙️ Tech Stack & Skills
+<section class="bg-white py-16">
+  <div class="max-w-5xl mx-auto px-4">
+    <h2 class="text-4xl font-bold mb-8 text-center text-gray-800">⚙️ Tech Stack & Skills</h2>
 
-### 🚀 Languages & Frameworks
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="Ruby" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="50" alt="Ruby on Rails" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="50" alt="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
-</div>
+      <!-- Mobile Development -->
+      <div>
+        <h3 class="text-2xl font-semibold mb-4 text-indigo-600">📱 Mobile Development</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-700">
+          <li>Flutter (Dart)</li>
+          <li>Java</li>
+          <li>Swift</li>
+          <li>React Native</li>
+        </ul>
+      </div>
+
+      <!-- Security -->
+      <div>
+        <h3 class="text-2xl font-semibold mb-4 text-indigo-600">🔐 Security</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-700">
+          <li>OWASP</li>
+          <li>Mobile Application Security Best Practices</li>
+        </ul>
+      </div>
+
+      <!-- Version Control -->
+      <div>
+        <h3 class="text-2xl font-semibold mb-4 text-indigo-600">🗂️ Version Control</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-700">
+          <li>Git</li>
+          <li>GitHub</li>
+          <li>Gitflow</li>
+        </ul>
+      </div>
+
+      <!-- Flutter Tools -->
+      <div>
+        <h3 class="text-2xl font-semibold mb-4 text-indigo-600">🛠️ Flutter Tools</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-700">
+          <li>Custom Widgets</li>
+          <li>Bloc</li>
+          <li>Riverpod</li>
+          <li>Reactive Programming (Streams, RxDart)</li>
+        </ul>
+      </div>
+
+      <!-- APIs -->
+      <div>
+        <h3 class="text-2xl font-semibold mb-4 text-indigo-600">🌐 APIs</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-700">
+          <li>RESTful APIs</li>
+          <li>Firebase</li>
+          <li>Android Keyboard API</li>
+        </ul>
+      </div>
+
+      <!-- Development Methodologies -->
+      <div>
+        <h3 class="text-2xl font-semibold mb-4 text-indigo-600">⚙️ Development Methodologies</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-700">
+          <li>Agile (Scrum & Kanban)</li>
+        </ul>
+      </div>
+
+      <!-- Backend -->
+      <div>
+        <h3 class="text-2xl font-semibold mb-4 text-indigo-600">🖥️ Backend</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-700">
+          <li>Laravel (PHP)</li>
+          <li>Ruby on Rails</li>
+          <li>Node.js</li>
+          <li>Spring Boot (Java)</li>
+          <li>Rust</li>
+        </ul>
+      </div>
+
+      <!-- Databases -->
+      <div>
+        <h3 class="text-2xl font-semibold mb-4 text-indigo-600">🗄️ Databases</h3>
+        <ul class="list-disc list-inside space-y-1 text-gray-700">
+          <li>MySQL</li>
+          <li>PostgreSQL</li>
+          <li>Supabase</li>
+          <li>MongoDB</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <span style="font-size: 20px; font-weight: 500;">VSCode</span>
+  <span style="font-size: 20px; font-weight: 500;">Git</span>
+  <span style="font-size: 20px; font-weight: 500;">GitHub</span>
+  <span style="font-size: 20px; font-weight: 500;">Docker</span>
+  <span style="font-size: 20px; font-weight: 500;">PostgreSQL</span>
+  <span style="font-size: 20px; font-weight: 500;">MySQL</span>
 </div>
 
 ---
