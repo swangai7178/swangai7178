@@ -18,7 +18,8 @@
 
 ---
 
-## ⚙️ Tech Stack & Skills  
+## ⚙️ Tech Stack & Skills
+
 ### 🚀 Languages & Frameworks  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
@@ -31,9 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
 </div>
 
-
----
-
 ---
 
 ## 🛠️ Tools & Technologies  
@@ -45,6 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
+
 
 ---
 
