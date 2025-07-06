@@ -67,6 +67,12 @@
 
 ## 🌐 Portfolio
 
-<div align="center" style="margin-top: 10px;">
-  <p style="font-size: 1.1rem;">✨ Explore my work at <a href="https://quadvendor.com" style="color:#5f27cd;">quadvendor.com</a></p>
+## 🌐 Portfolio
+
+<div align="center">
+  <p style="font-size: 1.1rem;">
+    Explore my full portfolio 👉 
+    <a href="https://portfolio-two-iota-25.vercel.app/" target="_blank" style="color:#5f27cd;">portfolio-two-iota-25.vercel.app</a>
+  </p>
 </div>
+
