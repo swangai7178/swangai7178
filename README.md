@@ -2,70 +2,47 @@
 <div align="center">
 
 # ⚡ Samuel Wangai  
-### _Flutter & Backend Developer — Neon Minimal Edition_
+**Flutter & Backend Developer — Neon Minimal**
 
-Crafting fast, scalable & beautiful apps.
-
+Crafting fast, scalable & beautiful digital experiences.  
 <img src="https://wakatime.com/badge/user/1f31a92c-750e-4dcf-9828-0b20a598cc20.svg" />
 
-<br/><br/>
-
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif" width="380" style="border-radius: 12px; opacity: 0.9;" />
+<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif" width="330" style="border-radius: 10px; opacity: 0.9; margin-top: 10px;" />
 
 </div>
 
 ---
 
-# 🟣 **Tech Stack**
-A clean **double-column grid** with a neon glow vibe.
+## 🟣 **Tech Stack (Compact Grid)**
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
 ### 📱 Mobile  
-- Flutter  
-- Java  
-- Swift  
-- React Native  
+- Flutter • Java • Swift • React Native  
 - RxDart / Streams  
 
 ### 🔐 Security  
-- OWASP  
-- Mobile App Security  
+- OWASP • Mobile App Security  
 
 ### 🗂 Version Control  
-- Git  
-- GitHub  
-- Gitflow  
+- Git • GitHub • Gitflow  
 
 ### 🌐 APIs  
-- REST  
-- Firebase  
-- Android Keyboard API  
+- REST • Firebase • Android Keyboard API  
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 ### 🖥 Backend  
-- Spring Boot  
-- Ruby on Rails  
-- Laravel  
-- Node.js  
-- Rust  
+- Spring Boot • Rails • Laravel • Node.js • Rust  
 
 ### 🗄 Databases  
-- PostgreSQL  
-- MySQL  
-- Supabase  
-- MongoDB  
+- PostgreSQL • MySQL • Supabase • MongoDB  
 
 ### 🛠 Tools  
-- VSCode  
-- Docker  
-- Postman  
-- Redis  
-- Firebase  
+- VSCode • Docker • Postman • Redis • Firebase  
 
 </td>
 </tr>
@@ -73,72 +50,47 @@ A clean **double-column grid** with a neon glow vibe.
 
 ---
 
-# 🔥 **Featured Projects**
-Minimal. Neon. Clean.
+## 🔥 **Featured Projects (Short & Clean)**
 
-### 🟩 **SmartPly – E-commerce System**  
-Full Flutter + Rails + Firebase ecosystem  
-Real-time tracking • Courier system • Vendor panel  
-**Tech:** Flutter, Rails API, PostgreSQL
+**🟩 SmartPly — E-commerce System**  
+Flutter + Rails + Firebase • Real-time tracking & vendor panel
 
----
+**🟪 RoomieDuty — Roommate Task Manager**  
+Task cycles • Notifications • Smooth UX (Flutter + Firebase)
 
-### 🟪 **RoomieDuty – Roommate Task Manager**  
-Interactive task cycles • Notifications • Clean UX  
-**Tech:** Flutter, Firebase, Riverpod
+**🟦 Offline Health Assistant**  
+AI offline health insights • No connectivity needed
 
----
+**🟥 QuadVendor POS**  
+Inventory, sales, orders • Flutter desktop + mobile
 
-### 🟦 **Offline Health Assistant (Hackathon Project)**  
-AI-powered offline predictions • Zero-connectivity UX  
-**Tech:** Flutter, Local LLM, TFLite
+**🟧 Jarvis AI Voice Assistant (Mac)**  
+Voice commands • Always-listening • Qwen + Whisper/Vosk
 
 ---
 
-### 🟥 **QuadVendor POS**  
-Sales, inventory, orders, Flutter desktop & mobile  
-**Tech:** Flutter, Rails, MySQL
-
----
-
-### 🟧 **Jarvis AI Voice Assistant (Mac)**  
-Always-listening activation • System commands • Qwen LLM  
-**Tech:** Python, Whisper/Vosk, Rust, Qwen
-
----
-
-If you'd like, I can add **links, screenshots, and badges** for each project.
-
----
-
-# 🔗 **Connect**
+## 🔗 **Connect**
 <div align="center">
 
-<a href="https://www.linkedin.com/in/samuel-wangai-6115681a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/samuelmwangi3410"><img src="https://img.shields.io/badge/Instagram-FF0077?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:swangai7178@gmail.com"><img src="https://img.shields.io/badge/Email-ff3d00?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/samuel-wangai-6115681a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/samuelmwangi3410"><img src="https://img.shields.io/badge/Instagram-FF0077?style=flat&logo=instagram&logoColor=white"></a>
+<a href="mailto:swangai7178@gmail.com"><img src="https://img.shields.io/badge/Email-ff3d00?style=flat&logo=gmail&logoColor=white"></a>
 
 </div>
 
 ---
 
-# 🌐 **Portfolio**
+## 🌐 **Portfolio**
 <div align="center">
 
-### 👉 **https://portfolio-two-iota-25.vercel.app/**  
-Minimal • Aesthetic • Responsive  
+👉 **https://portfolio-two-iota-25.vercel.app/**  
 
 </div>
 
 ---
 
-
-
----
-
 <div align="center">
 
-### ⚡ _“Build. Ship. Inspire.”_  
-Thanks for stopping by ✨
+### ⚡ _“Build. Ship. Inspire.”_ ✨
 
 </div>
