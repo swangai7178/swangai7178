@@ -132,14 +132,7 @@ Minimal • Aesthetic • Responsive
 
 ---
 
-# 📊 **Stats**
-<div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-wangai&theme=tokyonight"/>
-<br/>
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-wangai&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
