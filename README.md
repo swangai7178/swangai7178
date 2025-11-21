@@ -1,127 +1,151 @@
-<!-- Banner / Intro -->
+<!-- INTRO -->
 <div align="center">
 
-# 👋 Hi there! I'm **Samuel Wangai**  
-### 🚀 Flutter & Backend Developer  
-#### _Flutter • Spring Boot • Ruby on Rails • Rust_
+# ⚡ Samuel Wangai  
+### _Flutter & Backend Developer — Neon Minimal Edition_
 
-Passionate about building fast, scalable and visually stunning apps.
+Crafting fast, scalable & beautiful apps.
 
-<a href="https://wakatime.com/@1f31a92c-750e-4dcf-9828-0b20a598cc20">
-  <img src="https://wakatime.com/badge/user/1f31a92c-750e-4dcf-9828-0b20a598cc20.svg" />
-</a>
+<img src="https://wakatime.com/badge/user/1f31a92c-750e-4dcf-9828-0b20a598cc20.svg" />
 
 <br/><br/>
 
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif" width="400" style="border-radius: 12px;" />
+<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif" width="380" style="border-radius: 12px; opacity: 0.9;" />
 
 </div>
 
 ---
 
-## ⚙️ **Tech Stack**
+# 🟣 **Tech Stack**
+A clean **double-column grid** with a neon glow vibe.
 
-### 📱 **Mobile Development**
-- Flutter (Dart)
-- Java • Swift • React Native
+<table>
+<tr>
+<td valign="top">
 
-### 🔐 **Security**
-- OWASP
-- Mobile App Security Best Practices
+### 📱 Mobile  
+- Flutter  
+- Java  
+- Swift  
+- React Native  
+- RxDart / Streams  
 
-### 🗂️ **Version Control**
-- Git • GitHub • Gitflow
+### 🔐 Security  
+- OWASP  
+- Mobile App Security  
 
-### 🛠️ **Flutter Tools**
-- Custom Widgets  
-- Bloc  
-- Riverpod  
-- Reactive Programming (Streams, RxDart)
+### 🗂 Version Control  
+- Git  
+- GitHub  
+- Gitflow  
 
-### 🌐 **APIs**
-- RESTful APIs  
+### 🌐 APIs  
+- REST  
 - Firebase  
-- Android Keyboard API
+- Android Keyboard API  
 
-### 🖥️ **Backend Development**
-- Laravel (PHP)  
+</td>
+<td valign="top">
+
+### 🖥 Backend  
+- Spring Boot  
 - Ruby on Rails  
+- Laravel  
 - Node.js  
-- Spring Boot (Java)  
 - Rust  
 
-### 🗄️ **Databases**
+### 🗄 Databases  
 - PostgreSQL  
 - MySQL  
 - Supabase  
 - MongoDB  
 
+### 🛠 Tools  
+- VSCode  
+- Docker  
+- Postman  
+- Redis  
+- Firebase  
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🔧 **Tools I Use**
+# 🔥 **Featured Projects**
+Minimal. Neon. Clean.
+
+### 🟩 **SmartPly – E-commerce System**  
+Full Flutter + Rails + Firebase ecosystem  
+Real-time tracking • Courier system • Vendor panel  
+**Tech:** Flutter, Rails API, PostgreSQL
+
+---
+
+### 🟪 **RoomieDuty – Roommate Task Manager**  
+Interactive task cycles • Notifications • Clean UX  
+**Tech:** Flutter, Firebase, Riverpod
+
+---
+
+### 🟦 **Offline Health Assistant (Hackathon Project)**  
+AI-powered offline predictions • Zero-connectivity UX  
+**Tech:** Flutter, Local LLM, TFLite
+
+---
+
+### 🟥 **QuadVendor POS**  
+Sales, inventory, orders, Flutter desktop & mobile  
+**Tech:** Flutter, Rails, MySQL
+
+---
+
+### 🟧 **Jarvis AI Voice Assistant (Mac)**  
+Always-listening activation • System commands • Qwen LLM  
+**Tech:** Python, Whisper/Vosk, Rust, Qwen
+
+---
+
+If you'd like, I can add **links, screenshots, and badges** for each project.
+
+---
+
+# 🔗 **Connect**
 <div align="center">
 
-| VSCode | Git | GitHub | Docker | PostgreSQL | MySQL |
-|-------|-----|--------|--------|------------|--------|
-| 💙 | 🧭 | 🐙 | 🐳 | 🐘 | 🐬 |
+<a href="https://www.linkedin.com/in/samuel-wangai-6115681a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/samuelmwangi3410"><img src="https://img.shields.io/badge/Instagram-FF0077?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:swangai7178@gmail.com"><img src="https://img.shields.io/badge/Email-ff3d00?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
 ---
 
-## 🌟 Featured Strengths  
-✔️ Clean UI & smooth UX  
-✔️ Production-ready Flutter apps  
-✔️ Strong backend logic & system design  
-✔️ Real-time apps (WebSockets, Firebase, Streams)  
-✔️ Security-oriented development  
-✔️ Passion for performance, animations, and beautiful UI  
-
----
-
-## 📞 **Connect With Me**
+# 🌐 **Portfolio**
 <div align="center">
 
-<a href="https://www.linkedin.com/in/samuel-wangai-6115681a8">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-</a>
-<a href="https://www.instagram.com/samuelmwangi3410">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
-</a>
-<a href="mailto:swangai7178@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-</a>
+### 👉 **https://portfolio-two-iota-25.vercel.app/**  
+Minimal • Aesthetic • Responsive  
 
 </div>
 
 ---
 
-## 🌐 **Portfolio**
+# 📊 **Stats**
 <div align="center">
 
-👉 **Visit my full portfolio:**  
-### 🔗 [portfolio-two-iota-25.vercel.app](https://portfolio-two-iota-25.vercel.app/)
-
-</div>
-
----
-
-## 📊 **Github Stats**
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-wangai&theme=tokyonight" height="160" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-wangai&theme=tokyonight"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-wangai&layout=compact&theme=tokyonight" height="130" />
+<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-wangai&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## ⭐ **Thanks for Visiting!**
-_If you like my work, feel free to ⭐ some repos — it means a lot!_
-
 <div align="center">
 
-**"Code. Build. Ship. Inspire."**
+### ⚡ _“Build. Ship. Inspire.”_  
+Thanks for stopping by ✨
 
 </div>
